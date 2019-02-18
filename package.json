@@ -1,12 +1,12 @@
 {
   "name": "alfy-notes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alfred Workflow: Markdown Notes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tim Ambler <tkambler@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "alfy": "^0.8.0",
