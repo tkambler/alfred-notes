@@ -14,6 +14,6 @@ Trigger Alfred's input modal and enter the `note` keyword. By default, all avail
 
 ## Requirements
 
-- [Alfred]([Alfred](https://www.alfredapp.com/))
+- [Alfred](https://www.alfredapp.com/)
 - The [powerpack](https://www.alfredapp.com/powerpack/) extension
 - [Node.js](https://nodejs.org/en/)
