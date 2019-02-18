@@ -4,7 +4,7 @@ An [Alfred](https://www.alfredapp.com/) plugin that provides a simple workflow f
 
 ## Configuration
 
-Download the latest release and add it to Alfred. Configure the workflow's `NOTES_PATH` environment variable to reference a folder of markdown notes on your computer.
+Download the [latest release](https://github.com/tkambler/alfred-notes/releases/) and add it to Alfred. Configure the workflow's `NOTES_PATH` environment variable to reference a folder of markdown notes on your computer.
 
 ## Usage
 
